@@ -23,7 +23,5 @@ This project focuses on analyzing healthcare data to identify patterns in patien
   * Improved Excel formula and lookup-function skills.
   * Learned to create pivot tables and pivot charts.
   * Developed skills in Dashboard design.
-  * 
-  * 
   
   
